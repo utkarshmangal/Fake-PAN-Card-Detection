@@ -1,6 +1,6 @@
 # Image Tampering Detection using Python
 
-This repository contains a Jupyter Notebook (`image_tampering_detection.ipynb`) that demonstrates a step-by-step process for detecting image tampering using Python. The notebook covers the following key steps:
+I have created this repository for detecting image tampering using Python. The notebook covers the following key steps:
 
 1. **Image Import and Preprocessing**: Images provided by the user are imported and their size and format are checked. The images are then converted to grayscale for further processing.
 
