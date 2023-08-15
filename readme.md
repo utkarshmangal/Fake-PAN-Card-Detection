@@ -34,7 +34,7 @@ pip install opencv-python numpy matplotlib imutils
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/image-tampering-detection.git
+git clone https://github.com/utkarshmangal/Fake-PAN-Card_Detection.git
 ```
 
 2. Navigate to the repository's directory:
