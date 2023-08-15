@@ -29,24 +29,6 @@ You can install these dependencies using the following command:
 pip install opencv-python numpy matplotlib imutils
 ```
 
-## How to Use
-
-1. Clone the repository to your local machine:
-
-```
-git clone https://github.com/utkarshmangal/Fake-PAN-Card_Detection.git
-```
-
-2. Navigate to the repository's directory:
-
-```
-cd image-tampering-detection
-```
-
-3. Open and run the `image_tampering_detection.ipynb` notebook using Jupyter Notebook or Jupyter Lab.
-
-4. Follow the instructions in the notebook to analyze and detect image tampering.
-
 ## Note
 
 This project is meant for educational and demonstrative purposes. While the techniques employed here can be useful in identifying certain forms of image tampering, it may not be foolproof and may require further refinement for more complex scenarios.
